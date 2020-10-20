@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+}
+
+.top {
+background-color: #eeeeee;
+}
+
+.middle{
+  background-color:#686d76;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom{
+  background-color:#373a40;
+  height: 200px;
+  width: 200px;
+
+}
