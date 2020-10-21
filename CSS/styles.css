@@ -1,24 +1,78 @@
 body{
   margin: 0;
+  text-align: center;
+  font-family: "Krona One" ,serif;
+}
+
+.pathlogo{
+margin-bottom: -45px;
+}
+
+p{
+  font-family: "Commissioner", serif;
+}
+
+.opening{
+  font-family: "Krona One", serif;
 }
 
 h1{
-  margin-top: 0;
+
+  font-family: "Krona One", serif;
+  font-size: 2.5rem;
+  color: #19d3da;
+}
+
+h2{
+  color: #19d3da;
+  font-size: 1.3rem;
+  font-family: "Commissioner", serif;
+  font-weight: normal;
+}
+
+.subtitle{
+  padding-bottom: 25px;
 }
 
 .top {
 background-color: #eeeeee;
+margin-bottom: 20px;
+padding-top: 100px;
+padding-bottom: 0;
+position: relative;
+
 }
 
-.middle{
-  background-color:#686d76;
-  height: 200px;
-  width: 200px;
+.middle-container{
+
 }
 
-.bottom{
-  background-color:#373a40;
-  height: 200px;
-  width: 200px;
+.bottom-container{
 
+}
+
+.topcloud{
+  padding-top: 20px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.footer-link{
+  font-family: "Commissioner", serif;
+}
+
+.contact-me{
+  font-family: "Commissioner", serif;
+}
+
+a{
+  color: #19d3da;
 }
