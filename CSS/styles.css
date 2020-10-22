@@ -10,6 +10,7 @@ body {
 
 p {
   font-family: "Commissioner", serif;
+  line-height: 2;
 }
 
 .opening {
@@ -33,6 +34,11 @@ h2 {
 h3 {
   color: #19d3da;
 
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
 }
 
 .liftingtitle{
@@ -89,7 +95,6 @@ a {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .coding {
@@ -124,7 +129,7 @@ hr{
 }
 
 .btn {
-  margin-top: 70px;
+  margin-top: 40px;
    background: #19D3DA;
    background-image: -webkit-linear-gradient(top, #19D3DA, #19D3DA);
    background-image: -moz-linear-gradient(top, #19D3DA, #19D3DA);
